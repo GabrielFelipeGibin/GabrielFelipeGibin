@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+welcome in my perfil,
+My name is Gabriel felipe,
+I'm studying at alura,
+I'm developing in the JavaScript language,
+I use this space to organize and share my projects developed.
+![](https://pin.it/4YVkjdxYp)
 <!--
 **GabrielFelipeGibin/GabrielFelipeGibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
